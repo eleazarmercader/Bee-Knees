@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bee-Knees/static/css/main.37aa1c5d.css",
+    "main.js": "/Bee-Knees/static/js/main.02c4e1aa.js",
+    "static/js/787.3a5a1654.chunk.js": "/Bee-Knees/static/js/787.3a5a1654.chunk.js",
+    "index.html": "/Bee-Knees/index.html",
+    "main.37aa1c5d.css.map": "/Bee-Knees/static/css/main.37aa1c5d.css.map",
+    "main.02c4e1aa.js.map": "/Bee-Knees/static/js/main.02c4e1aa.js.map",
+    "787.3a5a1654.chunk.js.map": "/Bee-Knees/static/js/787.3a5a1654.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37aa1c5d.css",
+    "static/js/main.02c4e1aa.js"
+  ]
+}
